@@ -1,6 +1,6 @@
-# DeVera-Louis-Module6-Lab
+# DelaCuadra-Lance-Module6-Lab
 
-**Name:** Louis Anthony L. De Vera
+**Name:** Lance Daniel G. Dela Cuadra
 **Subject:** ITP10 Event-Driven Programming
 **Activity:** Midterm Laboratory Activity 3: Student Registration Form with Input Validation
 
